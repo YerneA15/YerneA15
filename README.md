@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Ankita Yerne</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -9,8 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ankita Yerne</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yernea15&label=Profile%20views&color=0e75b6&style=flat" alt="yernea15" /> </p>
 
